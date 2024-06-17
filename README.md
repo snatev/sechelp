@@ -1,11 +1,13 @@
 <div align="center">
 
 # Useful Programs and Tools
-Security tools and informations for a wide variety of uses, aiding in assessments, vulnerability discovery, research, and threat intelligence.
+A collection of security tools and informations for a wide variety of uses.
+
+<br>
 
 ![Banner](https://github.com/snatev/sechelp/assets/169693246/06d451e0-7093-4f61-a1ce-c081a2505215)
 
-<br><br>
+<br>
 
 ## Navigation
 [Web Application Enumeration and Fuzzing](#web-application-enumeration-and-fuzzing)
