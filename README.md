@@ -1,11 +1,11 @@
 <div align="center">
 
-# Useful Programs and Tools
-A collection of security tools and informations for a wide variety of uses.
+# Useful Security Services and Tools
+A comprehensive collection of security services, tools, and information catering to a wide variety of uses.
 
 <br>
 
-![Banner](https://github.com/snatev/sechelp/assets/169693246/06d451e0-7093-4f61-a1ce-c081a2505215)
+![shield](https://github.com/snatev/sechelp/assets/169693246/8f641ff8-1df4-4a7f-a993-28372b0c6791)
 
 <br>
 
