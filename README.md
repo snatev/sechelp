@@ -16,6 +16,8 @@ A comprehensive collection of security services, tools, and information catering
 
 [Security Assessments and Threat Intelligence](#security-assessments-and-threat-intelligence)
 
+[API Testing and Security](#api-testing-and-security)
+
 <br><br>
 
 </div>
@@ -38,6 +40,7 @@ A comprehensive collection of security services, tools, and information catering
 | ![OWASP Favicon Database](https://img.shields.io/badge/-OWASP%20Favicon%20Database-blue) | Identifies web technologies based on favicon hashes, useful for gathering information about web applications. |
 | ![Wayback Machine](https://img.shields.io/badge/-Wayback%20Machine-blue) | Digital archive of the Web, enabling users to view historical versions of web pages for research and content recovery. |
 | ![crt.sh](https://img.shields.io/badge/-crt.sh-blue) | Queries Certificate Transparency logs to search for SSL/TLS certificates issued for a domain, aiding in subdomain identification and security assessment. |
+| ![Netcat](https://img.shields.io/badge/-Netcat-blue) | Versatile networking tool for reading from and writing to network connections using TCP or UDP, often used for network debugging and security testing. |
 
 <br>
 
@@ -60,3 +63,16 @@ A comprehensive collection of security services, tools, and information catering
 | ![SecLists](https://img.shields.io/badge/-SecLists-blue) | Collection of lists used in security assessments, including usernames, passwords, URLs, sensitive data patterns, and fuzzing payloads. |
 | ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-blue) | Collaborative project for reporting and checking IP addresses for malicious activities, helping to identify and mitigate threats. |
 | ![CrackStation](https://img.shields.io/badge/-CrackStation-blue) | Online password cracking tool using a massive database of known password hashes to recover passwords through hash comparison. |
+| ![HackerOne](https://img.shields.io/badge/-HackerOne-blue) | Platform connecting businesses with penetration testers and security researchers to identify and resolve security vulnerabilities through bug bounty programs. |
+| ![XSS Polyglots](https://img.shields.io/badge/-XSS%20Polyglots-blue) | Collection of XSS payloads designed to test and bypass various XSS filters and protections, aiding in the detection and exploitation of XSS vulnerabilities. |
+| ![Command Injection Payload List](https://img.shields.io/badge/-Command%20Injection%20Payload%20List-blue) | Curated list of command injection payloads to test and exploit command injection vulnerabilities in web applications and services. |
+
+<br>
+
+### API Testing and Security
+
+|||
+|----------|-------------|
+| ![Postman](https://img.shields.io/badge/-Postman-blue) | Comprehensive API development environment that allows users to create, test, and document APIs, with features for automated testing and collaboration. |
+| ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-blue) | Integrated platform for performing security testing of web applications, including tools for scanning, crawling, and advanced vulnerability detection. |
+| ![RequestBin](https://img.shields.io/badge/-RequestBin-blue) | Enables users to create custom endpoints to collect, inspect, and debug HTTP requests, facilitating API testing and webhook inspection. |
