@@ -8,7 +8,11 @@ A comprehensive collection of security services, tools, and information catering
 <br>
 
 ### Navigation
+[API Testing and Security](#api-testing-and-security)
+
 [Metadata and File Analysis](#metadata-and-file-analysis)
+
+[Security Standards and Frameworks](#security-standards-and-frameworks)
 
 [Information Gathering and Enumeration](#information-gathering-and-enumeration)
 
@@ -16,13 +20,19 @@ A comprehensive collection of security services, tools, and information catering
 
 [Security Assessments and Threat Intelligence](#security-assessments-and-threat-intelligence)
 
-[API Testing and Security](#api-testing-and-security)
-
-[Security Standards and Frameworks](#security-standards-and-frameworks)
-
 <br><br>
 
 </div>
+
+### API Testing and Security
+
+|||
+|----------|-------------|
+| **Postman** | Comprehensive API development environment that allows users to create, test, and document APIs, with features for automated testing and collaboration. |
+| **Burp Suite** | Integrated platform for performing security testing of web applications, including tools for scanning, crawling, and advanced vulnerability detection. |
+| **RequestBin** | Enables users to create custom endpoints to collect, inspect, and debug HTTP requests, facilitating API testing and webhook inspection. |
+
+<br>
 
 ### Metadata and File Analysis
 
@@ -31,6 +41,18 @@ A comprehensive collection of security services, tools, and information catering
 | **pdfinfo** | Command-line tool displaying PDF file information, such as title, author, subject, keywords, and page count, along with more details. |
 | **ExifTool** | Platform-independent tool for reading, writing, and editing metadata in various file formats, offering comprehensive functionality. |
 | **CyberChef** | Web-based tool for carrying out various encryption, encoding, compression, and data analysis operations, providing a simple and intuitive interface for complex tasks. |
+
+<br>
+
+### Security Standards and Frameworks
+
+|||
+|----------|-------------|
+| **OSSTMM** | The Open Source Security Testing Methodology Manual, providing a peer-reviewed methodology for performing security tests and metrics. |
+| **OWASP** | The Open Web Application Security Project, offering free and open resources focused on improving the security of software, including tools, documentation, and community support. |
+| **NIST** | The National Institute of Standards and Technology, providing standards and guidelines to improve the security and resilience of information systems. |
+| **NCSC CAF** | The National Cyber Security Centre Cyber Assessment Framework, offering guidance on how to assess and improve cyber security measures. |
+| **OSINT** | Open-source intelligence tools and techniques for gathering and analyzing publicly available information to support security assessments and investigations. |
 
 <br>
 
@@ -73,25 +95,3 @@ A comprehensive collection of security services, tools, and information catering
 | **XSS Polyglots** | Collection of XSS payloads designed to test and bypass various XSS filters and protections, aiding in the detection and exploitation of XSS vulnerabilities. |
 | **Command Injection Payload List** | Curated list of command injection payloads to test and exploit command injection vulnerabilities in web applications and services. |
 | **Exploit-DB** | Archive of public exploits and corresponding vulnerable software, offering a comprehensive resource for security researchers and penetration testers. |
-
-<br>
-
-### API Testing and Security
-
-|||
-|----------|-------------|
-| **Postman** | Comprehensive API development environment that allows users to create, test, and document APIs, with features for automated testing and collaboration. |
-| **Burp Suite** | Integrated platform for performing security testing of web applications, including tools for scanning, crawling, and advanced vulnerability detection. |
-| **RequestBin** | Enables users to create custom endpoints to collect, inspect, and debug HTTP requests, facilitating API testing and webhook inspection. |
-
-<br>
-
-### Security Standards and Frameworks
-
-|||
-|----------|-------------|
-| **OSSTMM** | The Open Source Security Testing Methodology Manual, providing a peer-reviewed methodology for performing security tests and metrics. |
-| **OWASP** | The Open Web Application Security Project, offering free and open resources focused on improving the security of software, including tools, documentation, and community support. |
-| **NIST** | The National Institute of Standards and Technology, providing standards and guidelines to improve the security and resilience of information systems. |
-| **NCSC CAF** | The National Cyber Security Centre Cyber Assessment Framework, offering guidance on how to assess and improve cyber security measures. |
-| **OSINT** | Open-source intelligence tools and techniques for gathering and analyzing publicly available information to support security assessments and investigations. |
