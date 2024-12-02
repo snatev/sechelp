@@ -69,6 +69,11 @@ A comprehensive collection of security services, tools, and information catering
 | **Sublist3r** | Enumerates subdomains using multiple search engines and services like Netcraft, Virustotal, and DNSdumpster. |
 | **Shodan** | Search engine for Internet-connected devices, allowing users to discover and analyze devices and services exposed to the Internet. |
 | **dnsdumpster** | Online tool for performing DNS reconnaissance to discover hosts related to a domain. |
+| **whois** | Queries domain registration records to retrieve details about ownership, registration dates, and contact information. |
+| **nslookup** | Command-line tool for querying DNS to obtain domain name or IP address mapping, facilitating DNS troubleshooting and reconnaissance. |
+| **dig** | Command-line DNS lookup utility providing detailed information about DNS queries, such as A, MX, and CNAME records. |
+| **FoxyProxy** | Browser extension for managing multiple proxy configurations, streamlining proxy switching for security and anonymity purposes. |
+| **User-Agent Switcher and Manager** | Browser extension allowing users to change their user-agent string for testing, anonymity, and bypassing restrictions. |
 
 <br>
 
