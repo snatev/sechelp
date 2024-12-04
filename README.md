@@ -12,6 +12,8 @@ A comprehensive collection of security services, tools, and information catering
 
 [Metadata and File Analysis](#metadata-and-file-analysis)
 
+[Log Analysis and Monitoring](#log-analysis-and-monitoring)
+
 [Security Standards and Frameworks](#security-standards-and-frameworks)
 
 [Information Gathering and Enumeration](#information-gathering-and-enumeration)
@@ -41,6 +43,14 @@ A comprehensive collection of security services, tools, and information catering
 | **pdfinfo** | Command-line tool displaying PDF file information, such as title, author, subject, keywords, and page count, along with more details. |
 | **ExifTool** | Platform-independent tool for reading, writing, and editing metadata in various file formats, offering comprehensive functionality. |
 | **CyberChef** | Web-based tool for carrying out various encryption, encoding, compression, and data analysis operations, providing a simple and intuitive interface for complex tasks. |
+
+<br>
+
+### Log Analysis and Monitoring
+
+|||
+|----------|-------------|
+| **ELK Stack** | Open-source stack combining Elasticsearch, Logstash, and Kibana to collect, search, analyze, and visualize log and monitoring data, widely used for security information and event management (SIEM). |
 
 <br>
 
