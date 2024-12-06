@@ -43,6 +43,7 @@ A comprehensive collection of security services, tools, and information catering
 | **pdfinfo** | Command-line tool displaying PDF file information, such as title, author, subject, keywords, and page count, along with more details. |
 | **ExifTool** | Platform-independent tool for reading, writing, and editing metadata in various file formats, offering comprehensive functionality. |
 | **CyberChef** | Web-based tool for carrying out various encryption, encoding, compression, and data analysis operations, providing a simple and intuitive interface for complex tasks. |
+| **Steghide** | Command-line steganography tool for embedding and extracting hidden data within various file formats like images and audio, while preserving file integrity. |
 
 <br>
 
@@ -63,6 +64,7 @@ A comprehensive collection of security services, tools, and information catering
 | **NIST** | The National Institute of Standards and Technology, providing standards and guidelines to improve the security and resilience of information systems. |
 | **NCSC CAF** | The National Cyber Security Centre Cyber Assessment Framework, offering guidance on how to assess and improve cyber security measures. |
 | **OSINT** | Open-source intelligence tools and techniques for gathering and analyzing publicly available information to support security assessments and investigations. |
+| **MITRE ATT&CK Framework** | A knowledge base of adversary tactics and techniques based on real-world observations, used for understanding and enhancing detection, response, and mitigation strategies. |
 
 <br>
 
@@ -110,3 +112,4 @@ A comprehensive collection of security services, tools, and information catering
 | **XSS Polyglots** | Collection of XSS payloads designed to test and bypass various XSS filters and protections, aiding in the detection and exploitation of XSS vulnerabilities. |
 | **Command Injection Payload List** | Curated list of command injection payloads to test and exploit command injection vulnerabilities in web applications and services. |
 | **Exploit-DB** | Archive of public exploits and corresponding vulnerable software, offering a comprehensive resource for security researchers and penetration testers. |
+| **Atomic Red Team** | Open-source library of small, focused tests mapped to the MITRE ATT&CK framework to simulate adversary techniques and evaluate security controls. |
