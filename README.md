@@ -44,6 +44,8 @@ A comprehensive collection of security services, tools, and information catering
 | **ExifTool** | Platform-independent tool for reading, writing, and editing metadata in various file formats, offering comprehensive functionality. |
 | **CyberChef** | Web-based tool for carrying out various encryption, encoding, compression, and data analysis operations, providing a simple and intuitive interface for complex tasks. |
 | **Steghide** | Command-line steganography tool for embedding and extracting hidden data within various file formats like images and audio, while preserving file integrity. |
+| **Binwalk** | Tool for analyzing binary files, commonly used to identify and extract embedded files or data. |
+| **FLOSS** | Stands for FireEye Labs Obfuscated String Solver, a tool to automatically extract obfuscated and deobfuscated strings from malware binaries. |
 
 <br>
 
@@ -113,3 +115,6 @@ A comprehensive collection of security services, tools, and information catering
 | **Command Injection Payload List** | Curated list of command injection payloads to test and exploit command injection vulnerabilities in web applications and services. |
 | **Exploit-DB** | Archive of public exploits and corresponding vulnerable software, offering a comprehensive resource for security researchers and penetration testers. |
 | **Atomic Red Team** | Open-source library of small, focused tests mapped to the MITRE ATT&CK framework to simulate adversary techniques and evaluate security controls. |
+| **SearchSploit** | Command-line utility for offline searching of the Exploit-DB database, allowing quick access to public exploits and their references. |
+| **John the Ripper** | Fast and customizable password cracker that supports a variety of hash types, widely used for security testing and forensic investigations. |
+| **Hydra** | Fast and flexible brute-force password cracking tool supporting numerous protocols and services. |
