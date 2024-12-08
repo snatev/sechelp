@@ -46,6 +46,7 @@ A comprehensive collection of security services, tools, and information catering
 | **Steghide** | Command-line steganography tool for embedding and extracting hidden data within various file formats like images and audio, while preserving file integrity. |
 | **Binwalk** | Tool for analyzing binary files, commonly used to identify and extract embedded files or data. |
 | **FLOSS** | Stands for FireEye Labs Obfuscated String Solver, a tool to automatically extract obfuscated and deobfuscated strings from malware binaries. |
+| **jq** | Lightweight and flexible command-line JSON processor for parsing, manipulating, and formatting JSON data. |
 
 <br>
 
@@ -54,6 +55,8 @@ A comprehensive collection of security services, tools, and information catering
 |||
 |----------|-------------|
 | **ELK Stack** | Open-source stack combining Elasticsearch, Logstash, and Kibana to collect, search, analyze, and visualize log and monitoring data, widely used for security information and event management (SIEM). |
+| **CloudWatch** | AWS monitoring and observability service for collecting and analyzing logs, metrics, and events to monitor infrastructure and applications in real-time. |
+| **CloudTrail** | AWS service that provides governance, compliance, and operational auditing by logging API calls and activity across AWS accounts. |
 
 <br>
 
@@ -88,6 +91,9 @@ A comprehensive collection of security services, tools, and information catering
 | **dig** | Command-line DNS lookup utility providing detailed information about DNS queries, such as A, MX, and CNAME records. |
 | **FoxyProxy** | Browser extension for managing multiple proxy configurations, streamlining proxy switching for security and anonymity purposes. |
 | **User-Agent Switcher and Manager** | Browser extension allowing users to change their user-agent string for testing, anonymity, and bypassing restrictions. |
+| **ping** | Network tool for testing reachability of hosts and measuring round-trip time for messages sent to a target. |
+| **traceroute** | Network diagnostic tool that maps the path data takes to a host and identifies any intermediate hops. |
+| **Masscan** | High-performance port scanner capable of scanning large sections quickly, used for identifying open ports and services. |
 
 <br>
 
@@ -118,3 +124,4 @@ A comprehensive collection of security services, tools, and information catering
 | **SearchSploit** | Command-line utility for offline searching of the Exploit-DB database, allowing quick access to public exploits and their references. |
 | **John the Ripper** | Fast and customizable password cracker that supports a variety of hash types, widely used for security testing and forensic investigations. |
 | **Hydra** | Fast and flexible brute-force password cracking tool supporting numerous protocols and services. |
+| **msfvenom** | Payload generator that combines the functionality of msfpayload and msfencode, allowing users to create custom payloads for penetration testing and exploit development. |
