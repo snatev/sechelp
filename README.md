@@ -16,6 +16,8 @@ A comprehensive collection of security services, tools, and information catering
 
 [Security Standards and Frameworks](#security-standards-and-frameworks)
 
+[Network Analysis and Packet Capture](#network-analysis-and-packet-capture)
+
 [Information Gathering and Enumeration](#information-gathering-and-enumeration)
 
 [Web Application Enumeration and Fuzzing](#web-application-enumeration-and-fuzzing)
@@ -73,6 +75,18 @@ A comprehensive collection of security services, tools, and information catering
 
 <br>
 
+<br>
+
+### Network Analysis and Packet Capture
+
+|||
+|----------|-------------|
+| **tcpdump** | Command-line packet analyzer for capturing and inspecting network traffic in real time, supporting filtering and detailed output for in-depth network troubleshooting and analysis. |
+| **Wireshark** | Comprehensive network protocol analyzer with a graphical interface for capturing and examining network packets in real-time or offline, supporting a wide range of protocols and use cases. |
+| **TShark** | Command-line version of Wireshark for capturing and analyzing network traffic, ideal for scripting and headless environments. |
+| **Ettercap** | Comprehensive suite for man-in-the-middle attacks on LAN, supporting sniffing of live connections, content filtering, and network protocol analysis. |
+| **Bettercap** | Advanced, modular network attack and monitoring tool with support for network packet capture, man-in-the-middle attacks, and protocol manipulation. |
+
 ### Information Gathering and Enumeration
 
 |||
@@ -125,3 +139,4 @@ A comprehensive collection of security services, tools, and information catering
 | **John the Ripper** | Fast and customizable password cracker that supports a variety of hash types, widely used for security testing and forensic investigations. |
 | **Hydra** | Fast and flexible brute-force password cracking tool supporting numerous protocols and services. |
 | **msfvenom** | Payload generator that combines the functionality of msfpayload and msfencode, allowing users to create custom payloads for penetration testing and exploit development. |
+| **Metasploit** | Powerful and flexible penetration testing framework with a vast library of exploits, payloads, and auxiliary modules to assess and validate vulnerabilities. |
